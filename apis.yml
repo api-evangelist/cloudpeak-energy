@@ -1,0 +1,37 @@
+aid: cloudpeak-energy
+name: Cloud Peak Energy
+description: >-
+  Cloud Peak Energy Inc. was an American coal mining company headquartered
+  in Gillette, Wyoming, established in 2009 as a spin-off from Rio Tinto
+  Energy America. The company operated three open-pit mines in the Powder
+  River Basin (Wyoming and Montana) and held a 50% interest in the Decker
+  Coal Company. Cloud Peak Energy filed for Chapter 11 bankruptcy in May
+  2019 amid declining demand for Powder River coal in East Asian and US
+  markets and is no longer operating. This profile is maintained as a
+  historical record - Cloud Peak Energy did not publish public APIs.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://raw.githubusercontent.com/api-evangelist/cloudpeak-energy/refs/heads/main/apis.yml
+created: '2024-01-01'
+modified: '2026-04-25'
+specificationVersion: '0.19'
+x-type: company
+x-status: defunct
+tags:
+  - Coal
+  - Defunct
+  - Energy
+  - Mining
+  - Powder River Basin
+  - Wyoming
+apis: []
+common:
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/Cloud_Peak_Energy
+  - type: SEC EDGAR
+    url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001454743
+  - type: Bankruptcy Filing
+    url: https://cases.primeclerk.com/cloudpeak/
+maintainers:
+  - FN: Kin Lane
+    email: kinlane@gmail.com
