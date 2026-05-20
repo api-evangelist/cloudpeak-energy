@@ -26,6 +26,8 @@ tags:
   - Wyoming
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/cloud-peak-energy
   - type: Wikipedia
     url: https://en.wikipedia.org/wiki/Cloud_Peak_Energy
   - type: SEC EDGAR
