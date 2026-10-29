@@ -1,4 +1,4 @@
-# Cloud Peak Energy (cloudpeak-energy)
+# Cloud Peak Energy
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,31 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cloud Peak Energy Inc. was an American coal mining company headquartered in Gillette, Wyoming, established in 2009 as a spin-off from Rio Tinto Energy America. The company operated three open-pit mines in the Powder River Basin (Wyoming and Montana) and held a 50% interest in the Decker Coal Company. Cloud Peak Energy filed for Chapter 11 bankruptcy in May 2019 amid declining demand for Powder River coal in East Asian and US markets and is no longer operating.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-**APIs.json:** [apis.yml](https://raw.githubusercontent.com/api-evangelist/cloudpeak-energy/refs/heads/main/apis.yml)
+Cloud Peak Energy Inc. was an American coal mining company headquartered in Gillette, Wyoming, established in 2009 as a spin-off from Rio Tinto Energy America. The company operated three open-pit mines in the Powder River Basin (Wyoming and Montana) and held a 50% interest in the Decker Coal Company. Cloud Peak Energy filed for Chapter 11 bankruptcy in May 2019 amid declining demand for Powder River coal in East Asian and US markets and is no longer operating. This profile is maintained as a historical record - Cloud Peak Energy did not publish public APIs.
 
-## Scope
+**Areas:** Coal · Defunct · Energy · Mining · Powder River Basin · Wyoming
 
-- **Type:** Index
-- **x-type:** company
-- **x-status:** defunct
+## Cloud Peak Energy on APIs.io (historical record)
 
-## Tags
+Everything profiled for Cloud Peak Energy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cloudpeak-energy/](https://apis.io/providers/cloudpeak-energy/)** — or go straight to one of the APIs or properties below.
 
-Coal, Defunct, Energy, Mining, Powder River Basin, Wyoming
+## API Evangelist rating
 
-## APIs
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
 
-This profile is maintained as a historical record. Cloud Peak Energy did not publish public APIs and the company has been defunct since the 2019 bankruptcy.
+## How this profile is made
 
-## Common Properties
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Cloud_Peak_Energy)
-- [SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001454743)
-- [Bankruptcy Case Information](https://cases.primeclerk.com/cloudpeak/)
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Cloud Peak Energy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-## Maintainers
+## Open an issue
 
-- **FN:** Kin Lane
-- **Email:** kinlane@gmail.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cloudpeak-energy/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
